@@ -24,10 +24,11 @@ coverY: -166
 * **Price/SF**: $151.45
 * **RBA**: 144,359 SF | **Land**: 598,262 SF / 13.73 AC
 * Redevelopment Project > 6 Stories apartments
-  * `"encumbered by leases" (lease terms too long)`
-* Beaverton DMV - `Not moving or getting redeveloped`
+* **Beaverton DMV & Harbor Freight** - `Not being redeveloped`
+  * `"encumbered by leases" (lease terms were too long to wait)`
 
 ***
 
 * **Buyer**: [Trammell Crow Company](https://www.trammellcrow.com/)
+  * `Trammell Crow Company is a global real estate development firm. It has been a subsidiary of CBRE Group since 2006`
 * **Seller**: CHSC Management - `Gary Ruchaber` (Cashed out)
