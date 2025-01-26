@@ -1,4 +1,5 @@
 {
   "gitbook": ">=3.0.0",
-  "plugins": ["accordion"]
+  "plugins": ["accordion"],
+  "plugins": ["custom-js-css"]
 }
